@@ -6,7 +6,11 @@ Then, use uavsar_geotiff.py to convert the outputs of polsarpro_t3_freeman.py, t
 rfc_copol_imp_19and23.py shows an example of a random forest classifier trained on UAVSAR and ancillary data for two dates (can also just use one)
 
 INPUTS:
+
 UAVSAR Freeman-Durden Decomposition layers (SGL, DBL, VOL)
-UAVSR co-pol bands (HH, VV)
+
+UAVSAR co-pol bands (HH, VV)
+
 Global Manmade Impervious Surface data
+
 Rasterized training samples (create a polygon shapefile using GIS software and outline pixels you wih to use for training, then convert to a raster with the same resolution/dimensions as the UAVSAR swath)
