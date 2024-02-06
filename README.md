@@ -13,4 +13,4 @@ UAVSAR co-pol bands (HH, VV)
 
 Global Manmade Impervious Surface data
 
-Rasterized training samples (create a polygon shapefile using GIS software and outline pixels you wih to use for training, then convert to a raster with the same resolution/dimensions as the UAVSAR swath)
+Rasterized training samples (create a polygon shapefile using GIS software and outline pixels you wish to use for training, then convert to a raster with the same resolution/dimensions as the UAVSAR swath)
